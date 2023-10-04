@@ -1,0 +1,11 @@
+{
+  "Health": 100,
+  "Bactas": [{
+    "ypos": 18,
+    "xpos": 2
+  }],
+  "Position": {
+    "ypos": 17,
+    "xpos": 2
+  }
+}
