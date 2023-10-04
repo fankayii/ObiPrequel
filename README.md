@@ -1,5 +1,5 @@
-# My Personal Project
-
+# Obi-Wan Prequel Game
+Made it for CPSC210 project
 
 ## About the Project
 This is a side-scrolling game that tells an alternative <b><em>Obi-Wan Kenobi</em></b> story. (Yes, I blame Disney for this.) 
