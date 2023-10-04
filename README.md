@@ -48,13 +48,16 @@ from school. The game is aimed to entertain the audience by providing an interes
 - You can save the state of my application by pressing 'esc' to pop out the pause screen and press the 'save' icon
 - You can reload the state of my application by pressing 'load' on the main menu
 
-## Phase 4: Task 2
+### Phase 4: Task 2
 - Representative sample of the events
   - Player kills a storm trooper
   - Player pick up an item
   - Player uses an item
   - Player is hit
   - Player is killed
+
+## Future Plans
+Would continue this game using `Unity`
 
 
 
